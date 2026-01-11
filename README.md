@@ -7,8 +7,7 @@
 ## 🚀 Sobre mim
 - 🎓 Formação em Tecnologia da Informação
 - 🧑‍💻 Experiência com desenvolvimento web e dashboards
-- 📊 Interesse em visualização de dados e sistemas administrativos
-- 🏃‍♂️ Atleta híbrido (musculação + corrida)
+- 🏃‍♂️ Atleta híbrido - equilíbrio entre código e atividade física  
 - ✝️ Cristão
 
 ---
@@ -25,8 +24,12 @@
 
 ## 📌 Projetos em Destaque
 🔹 **Dashboard PHP – Controle de Contratados**  
-Dashboard web para visualização de dados, indicadores e gráficos, focado no controle de contratados.  
+Dashboard web para gestão de contratados, com visualização de dados, indicadores e gráficos interativos.
+
+**Stack:** PHP, MySQL, JavaScript, Chart.js  
+**Funcionalidades:** CRUD completo, visualização de dados em tempo real e geração de relatórios.  
 👉 [Ver repositório](https://github.com/jonatasjso/ProjetoCont)
+
 
 
 ---
